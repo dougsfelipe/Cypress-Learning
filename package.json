@@ -1,0 +1,14 @@
+{
+  "name": "cypress-learn",
+  "version": "1.0.0",
+  "description": "Teste com Cyprees",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Douglas Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
